@@ -1,3 +1,11 @@
+2022-05-08T05:13:45Z:
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all.svg: md5-hash=`1c3d54bbd7171d41838a83c57ae046be` existed=`1` sched-timestamp=`2022-05-08T05:08:48Z` prev-timestamp=`2022-05-08T01:08:48Z` expired-delta=`+00:04:57` prev-md5-hash=`22aa3a89b1a503e3701c488ffbe60008`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all-14d.svg: md5-hash=`9a3085e46f80129dec55d74e904cb1bb` existed=`1` sched-timestamp=`2022-05-08T05:08:53Z` prev-timestamp=`2022-05-08T01:08:53Z` expired-delta=`+00:04:52` prev-md5-hash=`6636f14bcae20c2e348f46e7b7d8b158`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/unq.svg: md5-hash=`00b269e21b0417202e0398111c586a0a` existed=`1` sched-timestamp=`2022-05-08T05:08:53Z` prev-timestamp=`2022-05-08T01:08:53Z` expired-delta=`+00:04:52` prev-md5-hash=`7ec3e45b8427fde435ec439d1235ba02`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/unq-14d.svg: md5-hash=`0f486b7e7528298ce664da0d2e158c9c` existed=`1` sched-timestamp=`2022-05-08T05:08:54Z` prev-timestamp=`2022-05-08T01:08:54Z` expired-delta=`+00:04:51` prev-md5-hash=`c959befa6906881ff4a112be567fc54c`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/doublecmd-board-views.svg: md5-hash=`828e4704a8a3c9edd4185af07a437ec9` existed=`1` sched-timestamp=`2022-05-08T05:09:01Z` prev-timestamp=`2022-05-08T01:09:01Z` expired-delta=`+00:04:44` prev-md5-hash=`736e151d62ed8992ececce0990cd0819`
+* notice: failed / skipped expired / downloaded changed: 0 / 15 12 / 12 5
+
 2022-05-08T03:11:41Z:
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/commits-since-latest.svg: md5-hash=`ba4d29b3f46d235f1ad5395ff1226c03` existed=`1` sched-timestamp=`2022-05-08T01:23:59Z` prev-timestamp=`2022-05-07T17:23:59Z` expired-delta=`+01:47:42` prev-md5-hash=`cf5b53f7ea644b1b2f7f2bd2c8662cda`
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/totalcmd-tacklebar-downloads.svg: md5-hash=`602b07095a71171f343cefa479e83a11` existed=`1` sched-timestamp=`2022-05-08T01:24:02Z` prev-timestamp=`2022-05-07T17:24:02Z` expired-delta=`+01:47:39` prev-md5-hash=`b31d1ed12f8be5146c6af9b42c3c890b`
