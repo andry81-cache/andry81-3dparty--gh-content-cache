@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-05-23T18:13:46Z'
+  timestamp: '2022-05-24T01:00:59Z'
 
   entries:
 
@@ -16,22 +16,22 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: b1dad1a604ab6dcdd3d93174d22975c6
-              timestamp: '2022-05-23T18:13:37Z'
+              timestamp: '2022-05-24T01:00:44Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: bd7fdf3491e00963704f69878a722609
-              timestamp: '2022-05-23T18:13:38Z'
+              timestamp: '2022-05-24T01:00:45Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: dcb503aa883d012fb9b565840d0097bb
-              timestamp: '2022-05-23T18:13:39Z'
+              timestamp: '2022-05-24T01:00:45Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 09466ecd44b8512b3bafdb8453be0e1a
-              timestamp: '2022-05-23T18:13:39Z'
+              timestamp: '2022-05-24T01:00:46Z'
 
         - dir: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/clones
 
@@ -39,23 +39,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 6c789efaf76954d9dee5c1397a116134
-              timestamp: '2022-05-23T18:13:40Z'
+              md5-hash: f0605fe1ecdc1c8af281df048e9b3f68
+              timestamp: '2022-05-24T01:00:47Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 3395a8d03cb93c8c5840ef2e17b19a05
-              timestamp: '2022-05-23T18:13:41Z'
+              md5-hash: 0274f2a4b975f79039b6dc5e0a5177c8
+              timestamp: '2022-05-24T01:00:47Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: d8fddea119de04f7bad3cbaf30c4858e
-              timestamp: '2022-05-23T18:13:42Z'
+              timestamp: '2022-05-24T01:00:48Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 0f486b7e7528298ce664da0d2e158c9c
-              timestamp: '2022-05-23T18:13:43Z'
+              timestamp: '2022-05-24T01:00:49Z'
 
         - dir: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics
 
@@ -64,27 +64,27 @@ content-index:
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-3dparty/tacklebar--external_tools/latest?sort=semver&label=Github%20commits%20since%20latest
               md5-hash: 57865b41baaa52d7f2cc7fe60f0177f8
-              timestamp: '2022-05-23T15:12:16Z'
+              timestamp: '2022-05-24T01:00:50Z'
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-3dparty/tacklebar--external_tools?include_prereleases&label=latest
               md5-hash: a20730a8d79d3856d92e14a42427746a
-              timestamp: '2022-05-23T15:12:17Z'
+              timestamp: '2022-05-24T01:00:51Z'
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-3dparty/tacklebar--external_tools/total?label=Github%20dl|all&logo=github
               md5-hash: 877aaa113f1ff7b46e1a0731a2505d2d
-              timestamp: '2022-05-23T15:12:18Z'
+              timestamp: '2022-05-24T01:00:51Z'
 
             - file: sourceforge-all-releases.svg
               queried-url: https://img.shields.io/sourceforge/dt/tacklebar/tacklebar--external_tools?label=Sourceforge%20dl|all&logo=sourceforge
               md5-hash: 833672b4678de10ffb90067840720cda
-              timestamp: '2022-05-23T15:12:18Z'
+              timestamp: '2022-05-24T01:00:52Z'
 
             - file: totalcmd-tacklebar-downloads.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=totalcmd.net%20dl&query=downloads&url=https://github.com/andry81-stats/tacklebar--totalcmd-stats/raw/master/traffic/downloads/plugin/latest.json?raw=True
-              md5-hash: 11cac2deef73e3f0ca8643bf2b2f8197
-              timestamp: '2022-05-23T15:12:19Z'
+              md5-hash: 5a2067a3d1a2261e3469959536570bab
+              timestamp: '2022-05-24T01:00:53Z'
 
         - dir: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics
 
@@ -93,22 +93,22 @@ content-index:
             - file: totalcmd-board-replies.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=replies&query=replies&url=https://github.com/andry81-stats/tacklebar--totalcmd-stats/raw/master/traffic/board/totalcmd/latest.json?raw=True
               md5-hash: 3c2413d04005cae6dfb29fccedd1d1ec
-              timestamp: '2022-05-23T18:13:44Z'
+              timestamp: '2022-05-24T01:00:54Z'
 
             - file: totalcmd-board-views.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views&query=views&url=https://github.com/andry81-stats/tacklebar--totalcmd-stats/raw/master/traffic/board/totalcmd/latest.json?raw=True
               md5-hash: 743e7b407936a889fd510e26d44f3f15
-              timestamp: '2022-05-23T18:13:44Z'
+              timestamp: '2022-05-24T01:00:54Z'
 
             - file: doublecmd-board-replies.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=replies&query=replies&url=https://github.com/andry81-stats/tacklebar--doublecmd-stats/raw/master/traffic/board/doublecmd/latest.json?raw=True
               md5-hash: 3c2413d04005cae6dfb29fccedd1d1ec
-              timestamp: '2022-05-23T18:13:45Z'
+              timestamp: '2022-05-24T01:00:55Z'
 
             - file: doublecmd-board-views.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views&query=views&url=https://github.com/andry81-stats/tacklebar--doublecmd-stats/raw/master/traffic/board/doublecmd/latest.json?raw=True
               md5-hash: 35e20d1425509c54aea9f471d22ae4a5
-              timestamp: '2022-05-23T18:13:46Z'
+              timestamp: '2022-05-24T01:00:56Z'
 
         - dir: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics
 
@@ -117,15 +117,15 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-3dparty/tacklebar--external_tools?logo=github
               md5-hash: f817b4d0b73615dcf17d061323b8ec4c
-              timestamp: '2022-05-23T15:12:20Z'
+              timestamp: '2022-05-24T01:00:56Z'
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-3dparty/tacklebar--external_tools?logo=github
               md5-hash: 72668f1672e69f9e0d8306be4bf186f6
-              timestamp: '2022-05-23T15:12:21Z'
+              timestamp: '2022-05-24T01:00:57Z'
 
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81-3dparty/tacklebar--external_tools?category=code
               md5-hash: 20824a6661ea996da8dc2cd249d6f3d2
-              timestamp: '2022-05-23T15:12:24Z'
+              timestamp: '2022-05-24T01:00:59Z'
 
