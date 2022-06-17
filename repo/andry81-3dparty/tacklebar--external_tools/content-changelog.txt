@@ -1,3 +1,20 @@
+2022-06-17T18:13:01Z:
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all-14d.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/unq.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/clones/all.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/clones/all-14d.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/clones/unq-14d.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/latest-release-name.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/totalcmd-tacklebar-downloads.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/totalcmd-board-replies.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/totalcmd-board-views.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/doublecmd-board-replies.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/doublecmd-board-views.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/shields-repo-size.svg: downloaded file is empty
+* warning: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/shields-code-size.svg: downloaded file is empty
+* notice: failed / skipped expired / downloaded changed: 14 / 6 20 / 20 0
+
 2022-06-17T09:11:25Z:
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all-14d.svg: md5-hash=`61ee1d684a51bd97a3f5c92e92b12a1c` existed=`1` sched-timestamp=`2022-06-17T04:53:01Z` prev-timestamp=`2022-06-17T00:53:01Z` expired-delta=`+04:18:24` prev-md5-hash=`aaf7a462ccb0e902121d24ded5d5d71d`
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/unq-14d.svg: md5-hash=`61ee1d684a51bd97a3f5c92e92b12a1c` existed=`1` sched-timestamp=`2022-06-17T04:53:03Z` prev-timestamp=`2022-06-17T00:53:03Z` expired-delta=`+04:18:22` prev-md5-hash=`aaf7a462ccb0e902121d24ded5d5d71d`
