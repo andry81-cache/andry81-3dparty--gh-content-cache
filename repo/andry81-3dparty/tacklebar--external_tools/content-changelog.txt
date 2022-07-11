@@ -1,3 +1,10 @@
+2022-07-11T06:14:35Z:
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all.svg: md5-hash=`52072b1b0cc16b3650c96cfad12b201c` existed=`1` sched-timestamp=`2022-07-11T05:00:27Z` prev-timestamp=`2022-07-11T01:00:27Z` expired-delta=`+01:14:08` prev-md5-hash=`f5d73bb6724d0fb0a8367c4ab5b03736`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all-14d.svg: md5-hash=`1eca5b7f4a713938ffbd27e84d04fac0` existed=`1` sched-timestamp=`2022-07-11T05:00:28Z` prev-timestamp=`2022-07-11T01:00:28Z` expired-delta=`+01:14:07` prev-md5-hash=`9b9c4bea63998cc2145ae99d625b33ab`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/unq.svg: md5-hash=`5595668497c0cbd58d971b67975b06aa` existed=`1` sched-timestamp=`2022-07-11T05:00:29Z` prev-timestamp=`2022-07-11T01:00:29Z` expired-delta=`+01:14:06` prev-md5-hash=`8b171edbdd6af02ec1110c6902efe608`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/unq-14d.svg: md5-hash=`bd7fdf3491e00963704f69878a722609` existed=`1` sched-timestamp=`2022-07-11T05:00:29Z` prev-timestamp=`2022-07-11T01:00:29Z` expired-delta=`+01:14:06` prev-md5-hash=`ef45b6b8fc2a6132a5110ac001a7c4b2`
+* notice: failed / skipped expired / downloaded changed: 0 / 16 12 / 12 4
+
 2022-07-11T03:52:38Z:
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/github-all-releases.svg: md5-hash=`bcd7a2639a3636cccc1ebdf58d9f9ddc` existed=`1` sched-timestamp=`2022-07-11T02:12:41Z` prev-timestamp=`2022-07-10T18:12:41Z` expired-delta=`+01:39:57` prev-md5-hash=`6814914d68b7f012dfc92063b45b3146`
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/totalcmd-tacklebar-downloads.svg: md5-hash=`1800af779637c78fb74f93af1ef6e3ee` existed=`1` sched-timestamp=`2022-07-11T02:12:42Z` prev-timestamp=`2022-07-10T18:12:42Z` expired-delta=`+01:39:56` prev-md5-hash=`8365ccd6c598a1edc44a8f81034b01bf`
