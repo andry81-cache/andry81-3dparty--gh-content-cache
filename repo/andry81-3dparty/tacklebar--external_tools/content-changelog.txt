@@ -1,3 +1,7 @@
+2022-07-22T12:21:28Z:
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/sourceforge-all-releases.svg: md5-hash=`3713194a728d82a161b9fe0b10e142f1` existed=`1` sched-timestamp=`2022-07-22T12:03:46Z` prev-timestamp=`2022-07-22T04:03:46Z` expired-delta=`+00:17:42` prev-md5-hash=`de06082b65a8de9c752065e99b87bb3a`
+* notice: failed / skipped expired / downloaded changed: 0 / 19 6 / 6 1
+
 2022-07-22T09:10:51Z:
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all.svg: md5-hash=`55c49d926483bb82e04441526575a20f` existed=`1` sched-timestamp=`2022-07-22T08:03:35Z` prev-timestamp=`2022-07-22T04:03:35Z` expired-delta=`+01:07:16` prev-md5-hash=`3096e95ed13d3af8dd215b52dff21d79`
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all-14d.svg: md5-hash=`c23d43c882109f76201ad191c4e465c5` existed=`1` sched-timestamp=`2022-07-22T08:03:36Z` prev-timestamp=`2022-07-22T04:03:36Z` expired-delta=`+01:07:15` prev-md5-hash=`2f36f1d3791a2d1ecdb7f371a5218ea9`
