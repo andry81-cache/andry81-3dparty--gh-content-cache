@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-07-28T18:15:02Z'
+  timestamp: '2022-07-28T21:09:38Z'
 
   entries:
 
@@ -83,8 +83,8 @@ content-index:
 
             - file: totalcmd-tacklebar-downloads.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=totalcmd.net%20dl&query=downloads&url=https://github.com/andry81-stats/tacklebar--totalcmd-stats/raw/master/traffic/downloads/plugin/latest.json?raw=True
-              md5-hash: 442c32955ed1da0412326fbc739abaf0
-              timestamp: '2022-07-28T12:25:30Z'
+              md5-hash: f280fbbd8dd65a9acfb57ecfd175c0e1
+              timestamp: '2022-07-28T21:09:38Z'
 
         - dir: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics
 
