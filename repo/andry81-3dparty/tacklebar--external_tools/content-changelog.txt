@@ -1,3 +1,12 @@
+2022-07-30T12:17:47Z:
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all.svg: md5-hash=`d20cfc46bd10815931a1592e2c0c94a5` existed=`1` sched-timestamp=`2022-07-30T10:12:54Z` prev-timestamp=`2022-07-30T06:12:54Z` expired-delta=`+02:04:53` prev-md5-hash=`004cfaf8d160b35ee16bcded90535111`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/all-14d.svg: md5-hash=`9178990da41460fca59c9a101a2fdc05` existed=`1` sched-timestamp=`2022-07-30T10:12:55Z` prev-timestamp=`2022-07-30T06:12:55Z` expired-delta=`+02:04:52` prev-md5-hash=`0f486b7e7528298ce664da0d2e158c9c`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/unq.svg: md5-hash=`7e5a82a8eae0771ab96e913bf3e775ac` existed=`1` sched-timestamp=`2022-07-30T10:12:55Z` prev-timestamp=`2022-07-30T06:12:55Z` expired-delta=`+02:04:52` prev-md5-hash=`e668325bbbee630a023e0fadedaa9346`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/views/unq-14d.svg: md5-hash=`12088cb1926f07bdd423119c89331a59` existed=`1` sched-timestamp=`2022-07-30T10:12:56Z` prev-timestamp=`2022-07-30T06:12:56Z` expired-delta=`+02:04:51` prev-md5-hash=`f2b9b085b2b123a17d878c4da1e35d88`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/clones/all.svg: md5-hash=`1d4b8639d424a8f6f0b5e25ed2c5d7e8` existed=`1` sched-timestamp=`2022-07-30T10:12:56Z` prev-timestamp=`2022-07-30T06:12:56Z` expired-delta=`+02:04:51` prev-md5-hash=`21ee54deee53f33188aada7a815dc037`
+* changed: repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/clones/unq.svg: md5-hash=`b1bb1620decde2188ca675bbd45765ef` existed=`1` sched-timestamp=`2022-07-30T10:12:58Z` prev-timestamp=`2022-07-30T06:12:58Z` expired-delta=`+02:04:49` prev-md5-hash=`4a21e5b6b9af40e32f4788d18668ee34`
+* notice: failed / skipped expired / downloaded changed: 0 / 14 12 / 12 6
+
 2022-07-30T09:10:01Z:
 * changed: repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/totalcmd-tacklebar-downloads.svg: md5-hash=`d5e2f578a55f19fe5b64be34d64ffa8c` existed=`1` sched-timestamp=`2022-07-30T08:57:22Z` prev-timestamp=`2022-07-30T00:57:22Z` expired-delta=`+00:12:39` prev-md5-hash=`d81ff17b9c0771c113e0363f7c7cd72d`
 * notice: failed / skipped expired / downloaded changed: 0 / 19 8 / 8 1
