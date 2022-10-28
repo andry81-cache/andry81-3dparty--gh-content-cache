@@ -1,3 +1,13 @@
+2022-10-28T12:28:43Z:
+* notice: GitHub Actions Run: https://github.com/andry81-3dparty/andry81-3dparty/actions/runs/3345417471 # 417
+* warning: downloaded file is empty: `repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/commits-since-latest.svg`
+* warning: downloaded file is empty: `repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/latest-release-name.svg`
+* warning: downloaded file is empty: `repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/sourceforge-all-releases.svg`
+* warning: downloaded file is empty: `repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/totalcmd-tacklebar-downloads.svg`
+* warning: downloaded file is empty: `repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/shields-repo-size.svg`
+* warning: downloaded file is empty: `repo/andry81-3dparty/tacklebar--external_tools/badges/metrics/shields-code-size.svg`
+* notice: failed / skipped expired / downloaded changed: 6 / 14 8 / 8 0
+
 2022-10-28T09:15:17Z:
 * notice: GitHub Actions Run: https://github.com/andry81-3dparty/andry81-3dparty/actions/runs/3344260224 # 416
 * changed: `repo/andry81-3dparty/tacklebar--external_tools/badges/traffic/clones/all.svg`:
