@@ -1,1 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="20" role="img" aria-label="views|all: 5"><title>views|all: 5</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="93" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="76" height="20" fill="#555"/><rect x="76" width="17" height="20" fill="#4c1"/><rect width="93" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViPC90aXRsZT48cGF0aCBkPSJNMTIgLjI5N2MtNi42MyAwLTEyIDUuMzczLTEyIDEyIDAgNS4zMDMgMy40MzggOS44IDguMjA1IDExLjM4NS42LjExMy44Mi0uMjU4LjgyLS41NzcgMC0uMjg1LS4wMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMzAzLS41NC0xLjUyMy4xMDUtMy4xNzYgMCAwIDEuMDA1LS4zMjIgMy4zIDEuMjMuOTYtLjI2NyAxLjk4LS4zOTkgMy0uNDA1IDEuMDIuMDA2IDIuMDQuMTM4IDMgLjQwNSAyLjI4LTEuNTUyIDMuMjg1LTEuMjMgMy4yODUtMS4yMy42NDUgMS42NTMuMjQgMi44NzMuMTIgMy4xNzYuNzY1Ljg0IDEuMjMgMS45MSAxLjIzIDMuMjIgMCA0LjYxLTIuODA1IDUuNjI1LTUuNDc1IDUuOTIuNDIuMzYuODEgMS4wOTYuODEgMi4yMiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSAzLjI4NiAwIC4zMTUuMjEuNjkuODI1LjU3QzIwLjU2NSAyMi4wOTIgMjQgMTcuNTkyIDI0IDEyLjI5N2MwLTYuNjI3LTUuMzczLTEyLTEyLTEyIi8+PC9zdmc+"/><text aria-hidden="true" x="475" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="490">views|all</text><text x="475" y="140" transform="scale(.1)" fill="#fff" textLength="490">views|all</text><text aria-hidden="true" x="835" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="70">5</text><text x="835" y="140" transform="scale(.1)" fill="#fff" textLength="70">5</text></g></svg>
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            img.shields.io
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=7684eabb7d61eafa')"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            img.shields.io needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/badge/dynamic/json?color=success&amp;label=views|all&amp;query=count&amp;url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&amp;logo=github&amp;__cf_chl_f_tk=W_LYfNPvQP5I5C0L_7ccGm69gMq69r1fq9Bz70EWnSA-1668147573-0-gaNycGzNB1E" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="WRqCXRHzDSvKcHr8VzyMYZ4JTw6nKI_MXR52q6Y7..c-1668147573-0-Af3GKKT9OvhiCmYjqMb0cvoZA1kJRlnxhcN2HoX-Uu7ytykQ_dN2rfAqCbI4yNag3MOPS6p9vJHCkMNM5LkrfOB-xG2YPNQQ6yb3Ktv6Ov9hTZGDxq5481EOpKerqnxUxfIpnJOaJCGVH9bVuBGtrB2AtOYvjh7eloTgkpfAl1a30uetdDGHLTNK-QxZADoPW--j8GBRAgS0kTqyU2zu7b5O7kagL72LNg-6wi0sNy36tbArMxyhTRTWKIVYofvWCRzQTYEiy1xzf25sp_kaBn5V9MImSYcHkRsVJrocqJwKVkvRQH49e0VoAmwUreOiHr50jy1pNWuERnF_1wHJ8XivzqqtZMFpTKMARJJHceR5jqcxxR4b8HYrzia_iQ2o7rHj2pk_kmF8khGOPn2nFi1jJMKxcAddv9hic5rQY9bQhg_dqvLF2j1zgDtqBlEWiYo5FHsJOYCkRj7_IhwVU5cHc9FjqNPG7cWeuoCYilSlIEjPykVDq3snDIEgfrXS720wEf_XbfjYk_Jyr65njpJWchpXAeQkJsHxaCbktiIlWxEM0_QYYaW_0I9bZxHIjGWH2WCnQ8-v3G_Tw--x1R3yGZW7HdA9Wmu_cQAV1aedZV8t4Gdswf8OlxpxAsrhudi7GLXJuUqlCrXobdC9eq7IvR5x6TLfs7Ju1CKo5v51v__OKLAZegyB-ToSzJKRusu3hYDflCEwm4LHvS2iE2EzBO-5AqNId9I9F1INLC9AfPN-Ojn6unlmZrHBi-ULojQUTw3LNf34i8xIXbw7qUhZzgqajtajU7w900YcnV1CGeIdW8_CBdHDP5sfqqSFAYB6REltzUc3XLuwAOjzzIEk6oxB-Czq42Y-3wYayS0CZrJrLZRL_-rbX8Tydh6n5XKOOqWHB72W06ZMv-Hdg4OrCKH5f0Fg6jcZWz2jYg3RpqpJoQvKBRGJcMaOPumEYqzOya_ZIctPHE4oeULE6f49FrkmJXXoE466XJL4hN_hMQ0Fw9gL1mlGYk8GHl144zfjkkEqvQrImlLEoMN_mP5pEWlGptbWtar2LqG-u5c5RErCMHI9mRZxEB8tMPBYDA">
+            <input type="hidden" name="r" value="uas5k8keHHVdSexN_qtP7pn8TBmYgJyYEEeek314.OQ-1668147573-0-AWvaa4bBh/GF+u5Y2q2QyX4eUpt51R6YnWRZdYp4pqOXwypXDj4O+WNVPcFBMBM6meDSAtNJXdsjNmQ3dGzUTtrqM8Gh/pjA9q2vAoJe0hD06XeFX17TvleTptQ72cJu3QRqH1gzCWyQOZtOatVNlgsK8TrfqJqyTDpAHK60wvp+jwHVy9fE/+ssBCqLCiat6yt6tw+DbhdG/MYjCYUUEoD5SNJoZ8PG0GfSn2QInfAoD9EL8R3ViEyEcnfAxxGwXf9LY284ygXZrs8OG+o4krkjlBY37bTDU4q8+QHhNFAactQ/LFiYXOyPphVrdSG+6wjMQ/XmLblWJhCgSC5oqNTt7+asty+neyJWTbA8N3NFlShpzaTI2Bqj/HRF++t+euyUXIZSudqo04xzz8KMYnstrxt0G7fgRnniQiZ0zh11uW6NvDLIL16R1Qi2aXDNv2vvGLk3veVxaxDcfN5wLSrQw3fpypuGfyhr9ax1qeMxP+SdEIDFHOXdhzpAkyJdAFlDflaJ+vuAVrBgP3X8ai/WfrRGBaD4jkn/BBMxKJMk2CDfwgYmVYmZAv1iY40Y4qa/19uKDZ2BbF4/x29hMpzA1f8WSduYZ365lwA5z/tlr94hUisczBREni4uNqa4/stlmVyjHx92b12C5jqyQaMxunBfp/aiCQfRUlhIs0mdazzJczFTa04oBLRoMwmxtGDiH+IHeiP6onwRCURTsZhUMsIyLxVPxH4H9rlKFrvm2NafqltDkdvbIDxcTjOUCqiCJ7y8h7C+ZYbWwBhLo3ETMJg3SPVbG59dPZdl3SFqd19b7hPkqYi3rHxHrm0Esdpt8B/0CDsS3R/ZbB3eivQN/7+rZe3+C/3cqggh5+eHpuqW+LqIo2gx7DUuVMSqruKJtxnYl1Db43WxUp3dsJ3AmRIUZpN10X2o3H7WZljGo96EybUFTChXzcU4o1JeAPsgd9x2XHe56yV6IC1JBfomCxwS2EJ4/E3YXWOTv5Y+ZAkTU2s7/ngYR+TrPVh4bZj+4AJ/DJVt1y4DVOAjcuv4spuYNI0cUXHM5dEiS+YB0NfE5uYqw1wfIZCzh8UcT5JqMEF1tcoQ52o7JrIohxKlx85OhqiGgQHe/A19K1nx2bDfCzne2Pv7wWutojmQ1VyGIj+go5iHoLgp12Xv//jw1XahcKBQsCnkTDauHNro4vt1FpW7RrpuTxdMDCb+Twsj1cXTHM714bUR5qruXXS2MwY76yMn09Q0GEXTmuSldU7ow/kEOCLvXizAurFEEOrna9yoHAs2xuBEP5y7lQpOH0/y99d4bTM2K5KDYOOjPKyrVpDrtwAhZayoG52oNBjsLBvk/7KihuJJIoJk6gI6DyRt1BcgvFf7hC73zxwA1jfre6Dh/QVtB4to7y2RpjpRoSVNfrYwjsaNt1lDibmqhSBTkL0Gn9vc1r9P7DKo1LOkDL4QzFy36pq6veNxXJmOv4M6h8PBSCVSEEMEcl9LFQ0KXKPDCxg8Cc1E4IrpdlFgSz1aWIuweviIHWLkUcS35p1hNCXZLI7F2+cNDBp0OUE+Aa+bVuUej98QafqErlaABduWKDm5TdSp0HAIEfXU0nHKLqk7tGLhYhOjekuPY0r76s8JQZm3ZUlQBp8gO339Oaq36TwnIon473CUjeokG5RPmIcSzqGaksktJOzjkmrj6gzGGItpP9dCsr84Ic75x57VP2qNu1aJdlfJ2tk3qhhwr8iAz3yGayutNXpIey3Y+P8K2o7nxSw8QQ55slin3+8bKoJygd8Ndwvd3tqsZzhdbgqVng20a3AvohI=">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '76885',
+            cRay: '7684eabb7d61eafa',
+            cHash: 'd91c12a7e883ae6',
+            cUPMDTk: "\/badge\/dynamic\/json?color=success&label=views|all&query=count&url=https:\/\/github.com\/andry81-stats\/andry81-3dparty--gh-stats\/raw\/master\/traffic\/views\/latest-accum.json?raw=True&logo=github&__cf_chl_tk=W_LYfNPvQP5I5C0L_7ccGm69gMq69r1fq9Bz70EWnSA-1668147573-0-gaNycGzNB1E",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9keW5hbWljL2pzb24/Y29sb3I9c3VjY2VzcyZsYWJlbD12aWV3c3xhbGwmcXVlcnk9Y291bnQmdXJsPWh0dHBzOi8vZ2l0aHViLmNvbS9hbmRyeTgxLXN0YXRzL2FuZHJ5ODEtM2RwYXJ0eS0tZ2gtc3RhdHMvcmF3L21hc3Rlci90cmFmZmljL3ZpZXdzL2xhdGVzdC1hY2N1bS5qc29uP3Jhdz1UcnVlJmxvZ289Z2l0aHVi',
+                ra: 'Y3VybC83LjY4LjA=',
+                rm: 'R0VU',
+                d: 'NpAwCzcNLjNuJU07M8Sq97pHSupZKiRdaWOdv4BCSYUWtB5CRxUd2pKl9ii135FrUWI4WMUY2NmQEjD3LT0MZrDcaN1wasfGV0+4i5GiRV4eOFUSKgZ4n6ayZTCuI48ozuqwpwkStGyU8KXuogoI2oxdXA8ymGkwgEyypBpB5Y9LknvoYu62hpPZiOmruNEqKh6W06/VgBXPgLkNE50EOavC99pHqTQxOqjrCmR/8ZPcHTJ8BmvX2VwzUiGWScyK45BvFiX0/4eFGMxkeNjeVRpgXvPKID5aqcqiOrnnRnc+O/8jf7qLvkUmE+MHRNeNeTKiMgGcj9n1otadQXEiFF9nKafa0bvY0pA+Z+Skxc3z0X0+icqcvO4rKohBy6J8LvWMc4iGTKVvcH1XZM1VE6mEppnDBA6LuoVLnCUfTyom+mxL8C7PjrbblgUNt6/1uqHLGgU6VqYFumnrp/E3TX7F3wu5lZZnPKCN6cZfIK2O0jQHLpWpQgwjHysJl9oGW/0QsVQ5uCPbubsWHc4QZBuaiwgNIlRcTkgnKylPverIqhpdVv+BxmCXhKR1aPs0H4V5+KQTscZx+7AMIdb4+jD1s4VoHNmmtXXFWilis1g=',
+                t: 'MTY2ODE0NzU3My4wNDEwMDA=',
+                m: '/4V6Kkp0ATQe2FedOTtK+QI5Jy086uFPU+vX8svpRho=',
+                i1: 'Qsjom6yf9G817F5n8AZKNQ==',
+                i2: 'Z412N3n9dEQaANe4vor5vg==',
+                zh: 'h1kabnJrIWu9Q05gRB1osBcs9EjbdfI3L0Tpfx6vpTM=',
+                uh: 'LgBfwTjckPmPFLl2OGGaoWOKkjIgTojK2wwoWSzqSQw=',
+                hh: 'dVDyTVaSv/YGFWPDex7JQ4MzDb8Xvj2fO4wAhFw+OYo=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=7684eabb7d61eafa');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=7684eabb7d61eafa';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/badge\/dynamic\/json?color=success&label=views|all&query=count&url=https:\/\/github.com\/andry81-stats\/andry81-3dparty--gh-stats\/raw\/master\/traffic\/views\/latest-accum.json?raw=True&logo=github&__cf_chl_rt_tk=W_LYfNPvQP5I5C0L_7ccGm69gMq69r1fq9Bz70EWnSA-1668147573-0-gaNycGzNB1E" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>7684eabb7d61eafa</code></div>
+            </div>
+            <div class="text-center">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>

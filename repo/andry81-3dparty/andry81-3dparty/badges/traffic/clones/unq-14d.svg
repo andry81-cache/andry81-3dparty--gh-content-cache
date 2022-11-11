@@ -1,1 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="20" role="img" aria-label="14d: 1"><title>14d: 1</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="48" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="31" height="20" fill="#555"/><rect x="31" width="17" height="20" fill="#4c1"/><rect width="48" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="165" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="210">14d</text><text x="165" y="140" transform="scale(.1)" fill="#fff" textLength="210">14d</text><text aria-hidden="true" x="385" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="70">1</text><text x="385" y="140" transform="scale(.1)" fill="#fff" textLength="70">1</text></g></svg>
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            img.shields.io
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=7684ead4eddcaa15')"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            img.shields.io needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/badge/dynamic/json?color=success&amp;label=14d&amp;query=uniques&amp;url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest.json?raw=True&amp;__cf_chl_f_tk=U416fwGXV2eBLn4ejdAkIhVSv.HYzXgNWxRwitS23dQ-1668147577-0-gaNycGzNB2U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="mjcHrsIuxJFvqvV.HQvpI142fmrKIA3RLKjBkG38LT4-1668147577-0-AYfORKXb0Ybv2FPIUpuvVRTjFKu3gZBlyOhaH_JA5BlOkiKQxuEFnPMT9dR3wnXibvuXJfd62JdfkNFmOEkZDm3-ZKd-Qo37ZHBzC0e5rzTgRGv9TPcULNrHMQKzOQxhkWBIdDPthkiXeh0zw9gmJ1h7yLL3Ub_2sEE-AsOLq7exFpR5JENc6aR8vhIWfRnQK8jXI_dxae3bBldyxbgYP0wRwhxeABTnq_XB04VnloScPNfQcuhmfCKGxWsPqpB3BkoGsu7YGFkkFMU2eMSJgBIzcZjOlEMb8qGfpXsTPKrZ0ZJjWUttmM1BV0rcuCufvB9UBeGoc3nxk5XR8nVHC3mxvVSvIvdS4AQURTcVZn-5hTsMpCFHmeMp584YWJW4AzXkLw35MWsXlyb_Le3U9GZGcPwm8P-655utzyaehiOUj_H4WkzmvujOV2LiKD_o_55ylodgMecd-AvPAeMXqRPjjUpiiOBv6AUYkTv69Mb7RTlBfsiUBjNnzTumGvTG45cZAY8mUk1YsZcybu2nhK5Bp13zyXrmkMsdeThON3pYUYj4vP2THq-qanJaBb1GnWcawPzmbJ8nACj_qoC86lIC8tZxCuHhlLTKq4-K4Wl6of-ea3Qi-qdinvKkDtxs7NEmA_bZhqXtGpP6zrxQhX5JUm3o4zs3lqdlN-Y_06JXVHG617eczj9dxGE1eAhSN08WhEnjzO97V0_K958t2q3MPH-GBCwqvoTe3-QRw33MKjkIeE2tyAM8zrvFgec-nUMalWXVuVwBxmjKiq8v04BDveB4hru2Gue8Urpvd0W1nte6zg1KIhlGMe-PMgAqSr6DhyZgF-RQVVhw9WomL8iujU9q2rENGqTuasfOgcfOGeAvOAARZiEuu1Si3NxkL9k05PSU-HIA95caQH4tK8rcXjESsWUknGlYi1_qq3lDw5K_9bN4qPrjkJcVAJhpOdsCa60lhFJyBtYISEwrAUdS4ntjMFYnVWffbUknsdEx5vhefHhXn7Z8LYX-4A_-yg">
+            <input type="hidden" name="r" value="9eJOZhuBlgiwmASYkStUG4wJymtjmCorWdJn46nBwZo-1668147577-0-AWXQQK4ncgsWvRQrbZeq9Z9wlqBmnLnmWOfyNv/1qaAeQk+cWGI1SoT+pqdrzdLmmKWCwSE+cM20PZC1G+HcczDKEH6TBcaXWEb/v0SQ1fmn7j8cWu4Ko3Oh9zpYOOm73ebpPyfqf4oNzzKoL9cG5T9aJtHtGu7nnJSxkgQJwBBsFBuLHfwSZJC7M4iWSfTUimRE8pC1DEFdq58pTWISCvg4yJ4dCBujsDHn2PS2BD6c5uLiHF3eTFGODOAy3R/nrd5qo2TfbX32ClQJ27bd38x+kL6E9zWfbSxaNfyax8GDrR4+uagoEgAxggp6T7f+aApAOFAaiRh8V1UTnV2IZgNQ5HwRzjaEDgQYrH73fXEj5Xd7eJuZSurmZ9ecv0d0ncNsYR0KnP2GHJLJ1ypQcvy1PdPLVIJdxzFJx1Y3T+4W1Fs52ZUub+q8eeLw/YqzqPdaZGAgkWmwhja4hIyhCKS2Rsjhos+kZje8XKxzz1DMNhE/620A2XaAIjsDEZjGFVQK7w+ReHnSlnM3qwJ+OMbeepSs6Kfmq2nNFqyT/Sz8kdql4LVfZmLv24K6lw1DC0jCM0d6XjGHsuDCL1R39GEmZpl3oGJRyovbkXZOAEDgaQU5DDLcP4VN319xEl9jtSKOqx+hw0BGTvJ74anWhqCPOvvf9UPzDYu9Vg9PBGu2Jq68PlB1BtyoEAjbM8TaKhlyWW/HH0lJEzLyVM1rWcQyQwhgGvRHKpe4H9y9863oCdMioY/wGERKvWyW9V2WY8VS+VRl6JPx1CAHZhVVyAVw7vFBzBxBzzd6++Oiz4rV1GCU4GxeOezeoLy0EzoA5clRE8zwoSWHpt0nGXqwTBjY/xprP1KT2QzYrNw69U1J+ONRSUkt4cKA3+/fXD6iK9QAbfgLM+AogqKAAo4tDrM/j4oSmEv3p8a5N7Zzx4ePol//PlQr+5VL9WDajD2FUDlfkz/ksAO70c5/kcfVVmR+x+jvBOxN+NLTnxpOe77zWJco0ud30iT9C6ynmTzUvpQmj0hcgfg/7MmkhsG7ma552o2VvooENb1O+7hhI0OJb7iRwIao7ECuQ1+sWFtV2DQjchnnSOBvF21bJlCAPaNjqSDQLB9FFeQ4B4XPs203jCk5Elz215tCseF8zsvrCx+rX4omrgBlC9fDCQjG5ZfSBl+bLfOv3jY3ImJAf50ISEzlAlFlZRw7zSK1qqgtHdhvaaheYJ7X3wnsbBscRFTfTniM6mEizdNO1vwoePyZrEb9aNuvNU4KTCIwYh3xxXZssq/44c3gzjYeBwbBc9FogqVDqJw02M7PBcJbTCH8byjOEbeflfrJIBcrimpV0C6CNW650MD1YLkJjCeQVRgY0eBntQZoLOEi5u3kTauRnQ8JKxGEVkb+SQQ6hHtNEVelwc1L8oB9VtZIoqtrGiYfqZrFaHOjH9/Xvw7bA4SYDjOMEKR0XnwZFUMBLkdbWSVGmLC8qxTMeLrlMtHqtNhA/M0OJYtcORb2ry+NodbBmSdVMPfa3vjD3ydT+NFYkUqN8fCnPdDfDG6WWNQ8zBT4lqs5f/Mzi2SvMZ3Hw5BDZ/sxNAFAYmudXYrEymrUYAgqdzz6BhBk0l+TqqdrZHbHaXdUa4vXJEmyjXVsRbSNwYXiYPiRD3A+eXJ63/Y1UtOzkBWuepdeHYyx4ahgH/WUWPXxcob/1DCcY7sIsDnMFpGUuIemgQCn4jkNIf/pKVytXXqcSuyBuLcdqzWhZNtEbL6U0EY4BrUNVCq7qdQIfSE0qDV2EJgCTGMVOWJESUHjOQKXzxair0HM8yAYTsRBapew/dPCqtS+mIldoDcK">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '62909',
+            cRay: '7684ead4eddcaa15',
+            cHash: 'cb946905fdf4e32',
+            cUPMDTk: "\/badge\/dynamic\/json?color=success&label=14d&query=uniques&url=https:\/\/github.com\/andry81-stats\/andry81-3dparty--gh-stats\/raw\/master\/traffic\/clones\/latest.json?raw=True&__cf_chl_tk=U416fwGXV2eBLn4ejdAkIhVSv.HYzXgNWxRwitS23dQ-1668147577-0-gaNycGzNB2U",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9keW5hbWljL2pzb24/Y29sb3I9c3VjY2VzcyZsYWJlbD0xNGQmcXVlcnk9dW5pcXVlcyZ1cmw9aHR0cHM6Ly9naXRodWIuY29tL2FuZHJ5ODEtc3RhdHMvYW5kcnk4MS0zZHBhcnR5LS1naC1zdGF0cy9yYXcvbWFzdGVyL3RyYWZmaWMvY2xvbmVzL2xhdGVzdC5qc29uP3Jhdz1UcnVl',
+                ra: 'Y3VybC83LjY4LjA=',
+                rm: 'R0VU',
+                d: 'ufZTXH0FqxSaGWP9EU49hXDLuxXYb2xG0zjgYKbFRtLRSwP1wRfll7+5RgZNxvsjfErdntFD6qdX5dwrU0d3wa9z3xkgFn/lQYE/LSgbEduIgLaERx1o0eLw7Adfg8GF1xu1PFoq3jyMHF1Os8U5HsktTD1QqOympbrSHG3H+NQ+H+xMBOzfT3Acz4b+IJJWCcwT3uwttEpVHXJUne8/hP5YI6h/UKq0QKxW2ZyMhcssBJjMXGNrFVIzA+OUVdqRKD6k/EMwNFbq8ryNTNqwGyWNpkh0phZAUDxYkfadg8G/Ayi/2ukv2F7vdvzZnYgYqhwJExqDJGwefXtWXk1NCkOCFUAt/o2VtZ7n6h9mfj3AvRv22Fz6ob8nOFk3fIH8LKAUsf0oR+9gSDR/AYncVPZ0S3fPFp5d7hQrcIzIIbQS2hSz/SU3hPJCSn7iXwLJ3ny1yjAu8ubynnlOWNlIG1NmZS1jPGdtYJY20732sTGi3HRoiwI2lVOgzW0t/EDtnRYJ0D/JU9v1rrygw7BfZfwmXlf/43N+jiQGwZh67ge30ASmksGe6xxt8TXcoriF/EzMBFvNzy37XopUyChGT/eBs//OqIOequejq6559DA=',
+                t: 'MTY2ODE0NzU3Ny4xMDUwMDA=',
+                m: '8ji4n9CLYGKb5frXq6YRPHkXiIXLAhwTYSRIGg2mLgc=',
+                i1: '/tgQwqBBpAbeBCgut0VObg==',
+                i2: 'H1whHOv4xfPN5kjaeQKKEg==',
+                zh: 'h1kabnJrIWu9Q05gRB1osBcs9EjbdfI3L0Tpfx6vpTM=',
+                uh: 'LgBfwTjckPmPFLl2OGGaoWOKkjIgTojK2wwoWSzqSQw=',
+                hh: 'dVDyTVaSv/YGFWPDex7JQ4MzDb8Xvj2fO4wAhFw+OYo=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=7684ead4eddcaa15');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=7684ead4eddcaa15';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/badge\/dynamic\/json?color=success&label=14d&query=uniques&url=https:\/\/github.com\/andry81-stats\/andry81-3dparty--gh-stats\/raw\/master\/traffic\/clones\/latest.json?raw=True&__cf_chl_rt_tk=U416fwGXV2eBLn4ejdAkIhVSv.HYzXgNWxRwitS23dQ-1668147577-0-gaNycGzNB2U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>7684ead4eddcaa15</code></div>
+            </div>
+            <div class="text-center">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>
