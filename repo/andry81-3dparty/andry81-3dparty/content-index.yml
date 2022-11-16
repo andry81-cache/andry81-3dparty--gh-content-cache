@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-11-11T12:29:36Z'
+  timestamp: '2022-11-16T09:13:25Z'
 
   entries:
 
@@ -16,26 +16,26 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: a3d76eb4be222ede6cf65310c47fbc8a
-              timestamp: '2022-11-11T12:29:30Z'
+              timestamp: '2022-11-16T09:13:20Z'
               size: 2328
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2022-11-11T12:29:31Z'
-              size: 1101
+              md5-hash: 7c0c4e9e5d37073e86325b893a5d1f67
+              timestamp: '2022-11-16T09:13:21Z'
+              size: 1153
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: ec08d3b97a3fa13a439d7f3fdd3777c7
-              timestamp: '2022-11-11T12:29:32Z'
-              size: 2331
+              md5-hash: 04aa1af223507df9fa46184902e5f73d
+              timestamp: '2022-11-16T09:13:22Z'
+              size: 2382
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2022-11-11T12:29:33Z'
-              size: 1101
+              md5-hash: 7c0c4e9e5d37073e86325b893a5d1f67
+              timestamp: '2022-11-16T09:13:22Z'
+              size: 1153
 
         - dir: repo/andry81-3dparty/andry81-3dparty/badges/traffic/clones
 
@@ -43,25 +43,25 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 07c64250960021abe25b08ee3021b91f
-              timestamp: '2022-11-11T12:29:33Z'
-              size: 2332
+              md5-hash: 5726d7fd0cce68e1f8825f903df11805
+              timestamp: '2022-11-16T09:13:23Z'
+              size: 2386
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2022-11-11T12:29:34Z'
-              size: 1101
+              md5-hash: 7c0c4e9e5d37073e86325b893a5d1f67
+              timestamp: '2022-11-16T09:13:24Z'
+              size: 1153
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 4eb2fc07f4decbe74a4102fa216b0832
-              timestamp: '2022-11-11T12:29:35Z'
-              size: 2335
+              md5-hash: 1501d398092aa29d12a12415d615772d
+              timestamp: '2022-11-16T09:13:24Z'
+              size: 2386
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2022-11-11T12:29:36Z'
-              size: 1101
+              md5-hash: 7c0c4e9e5d37073e86325b893a5d1f67
+              timestamp: '2022-11-16T09:13:25Z'
+              size: 1153
 
