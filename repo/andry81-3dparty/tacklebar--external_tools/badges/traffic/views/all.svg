@@ -1,1 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107" height="20" role="img" aria-label="views|all: 151"><title>views|all: 151</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="107" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="76" height="20" fill="#555"/><rect x="76" width="31" height="20" fill="#4c1"/><rect width="107" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViPC90aXRsZT48cGF0aCBkPSJNMTIgLjI5N2MtNi42MyAwLTEyIDUuMzczLTEyIDEyIDAgNS4zMDMgMy40MzggOS44IDguMjA1IDExLjM4NS42LjExMy44Mi0uMjU4LjgyLS41NzcgMC0uMjg1LS4wMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMzAzLS41NC0xLjUyMy4xMDUtMy4xNzYgMCAwIDEuMDA1LS4zMjIgMy4zIDEuMjMuOTYtLjI2NyAxLjk4LS4zOTkgMy0uNDA1IDEuMDIuMDA2IDIuMDQuMTM4IDMgLjQwNSAyLjI4LTEuNTUyIDMuMjg1LTEuMjMgMy4yODUtMS4yMy42NDUgMS42NTMuMjQgMi44NzMuMTIgMy4xNzYuNzY1Ljg0IDEuMjMgMS45MSAxLjIzIDMuMjIgMCA0LjYxLTIuODA1IDUuNjI1LTUuNDc1IDUuOTIuNDIuMzYuODEgMS4wOTYuODEgMi4yMiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSAzLjI4NiAwIC4zMTUuMjEuNjkuODI1LjU3QzIwLjU2NSAyMi4wOTIgMjQgMTcuNTkyIDI0IDEyLjI5N2MwLTYuNjI3LTUuMzczLTEyLTEyLTEyIi8+PC9zdmc+"/><text aria-hidden="true" x="475" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="490">views|all</text><text x="475" y="140" transform="scale(.1)" fill="#fff" textLength="490">views|all</text><text aria-hidden="true" x="905" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="210">151</text><text x="905" y="140" transform="scale(.1)" fill="#fff" textLength="210">151</text></g></svg>
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            img.shields.io
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=76fc5ca01937ce78')"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            img.shields.io needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/badge/dynamic/json?color=success&amp;label=views|all&amp;query=count&amp;url=https://github.com/andry81-stats/tacklebar--external_tools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&amp;logo=github&amp;__cf_chl_f_tk=vWXjLXXwk0Nh3D66w.u6krCU05f53zLttRPGEOK5ECI-1669400043-0-gaNycGzNB2U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="JHovXIvlVd_8HKCEBX5InK.4BLK5XCbNDiOzEwEJgH4-1669400043-0-AS4yMneJvUhsvkmBs5kKhZiohu9VGOToBRT6SLKUNEiB_NlERIF-pcGGb30q_-ZVmuS6cepwJGsgetYJOktDYFxizm1W4H3hfc8FwwAn-nyUxNpmoIUR4ClWO1AVnGfbx1ky400EdErZwpOlnoOn3jFvt295SV0aE07JhCp599yPKUAz0rmZwo7gsHGDx45HA1saXAdPNf_ZWOYSo4XKDsRP0Tb1Yb2IiobX_QaMZEKqEGu-NF0iQx-GIBl9eNBepApH2DVTt4ICHa1uiqmq5UPcCG8gCRYHRazoz0NjhGn-CnfIsKLflIPlJmoA5RYck4xo6Nwub8MOsRc0rXcQtkPUyAUfYAjeXeOPdsey2a3lNu7ZmF_j0ttTA2sHuw86-cUMuAXsBxRJMFZV9JGztXvmipMjE4uy5eXTH0TYa_qbImPWU0qKRUo7eSwrW6lcyhSI11inmT6vGb83jjGj-_nRhQrhfXck9JhQXXha0_GYQ79iKUj8fDqN6GiSKN850_jrpK0uqEzN6QbWqkidLTkSmtW723R5PR81Qm9lVo1RYTHVvm6Zepx2hAxC1mUrkONBFaDGGZbxpiC1oK3r5Xq_b-6_ms0zhEtylq2_CYc5bQnLMa-6yXttsN5DTihX2Ro3HBxvKpOAvtTMqbIUSP9gVNx2-mqqVgTIqfH2qF--xlkk1CQcJTor8NMJM_C8HMhS16XDi7Tsc64J1m4SFpGU0d9xk0HAqNHt2-IgpypxjuMtw9EzbSLxeiwmx9DsZCYAqtKdpZoLgTYN2Dz6TPAXdiRq6Gc4J00lopv-umrvYZMv_vSP9-NtBDN9HqQ6iEfG3ugP71e6gMSIcmQZWr9Bb2OWbax4xO3YWuitk1Qrq7XQ8slDZYz8qVesdGAvPAKmq0QcgFqiXr8AxwB8xqKaSzmq-Kr3LrA_qKLKrlv0qHp6jp1qdEfrGwCMTAWF25SV957AA6oZzawDT5fiU6-D7XIM6rqxqLs1lLdSpbqoE7vDeqEeteGatGReo7gm7fqrsGRY-20RDPPQJeL3wNiaqZ8NvFv3KVCnP3Yjx5cWgbeGze23I_B_-X8CVRzCM4h1DpOIWy5XyvrKJToF3a4">
+            <input type="hidden" name="r" value="A9witei2Ec3WBpm3r0S4BgropRw6JWTbyzx9N30ZK8s-1669400043-0-AQjrJzHNk71mqTc/MoO2Ek8fZPrbv4rd3h16oLWRZWqPwyhaCMGMy2oQUi7k0VJWLEVruU4coXnAn0tZCfshSH9SKy5jHC36QVQG61+sQsPPFiRAJv4fhhXfskNJVeBV/RICzkX0BfL8zRDRIH3Frudtp3RaSjNbpEVt9gmOO7kNpJLmr6IIxKwcQzcnByx5u6nwBInJJGndrFWW2OoXIIAhhIzmrxdj2YCSawzm3vGzGRTD75jdT/uzPFeIpEkqFYF+yDIKzrkkYET3zKsYA2KMlDWemz7KENmr100v5AxWDzIDFdxkrFebJxpw15Z9FvmebvaOFt9vkEDxYsCLlcsg0Z7aFsDnpwktnPyexAxCG3zEQ5V6esLYjNdI8fd90X6Qhgetx3IBI5fJJDy3ZUNS0dpImoK34d0sHPdtIO7GbWvkezhIqbfEGv8auAf3Obnh8t3hSD71oryilcZ2z7pFPAdMtL6pyo8Ir5sxj8Kh/uWtPa8ovvQsAUA0ca38hIh6NAiX7EAlWdgkIjyWWHWSbSILPpAIA3+Cz0MsRuUKyp5GWoOpldJHVgHPrSdfq7AeCAstAtFulc41MKxwSAkMhSiEpJjsHCe3g7oejdQ81TymvyNghKw9z4o75odoPW4+P4izKHZ1UtYy+1sV4sO9awAbQqHJUWcUk2ZWbjhRf47/vfd4HXIzEpWRFwVnyIadq3ooVSMQ/IQZNncAEVLanBuFCSPxxlmSTAA8HAoiRTnnXEEVmfR9o3NTMD90kjz0vfEUw6iF5A9mXsTfWpXMovsenBKTMV+uxulwWNkNAbKEXe5ACB8bkmtFuJ6wsC2QaZG/EhzdaKwh0PT87gv/EYbqe6GB4otbXTA0S4RWwTl/GQCJxSgfBYTFPNP1emP65+MIvJf9U/4Xvds20oiDvJ/l4ed3dcu3CxAaaMVILkiz+JjAlIzX2PRTNSixEIzQwVyJCCduvMTAsf8dX05BCBuvoTI49EUPjQFNeMN+42S66ZGeRllWIcP1JXDVI9ejswar2j4clJYClL7K+9MRedI1zMqiO83uU9zW61PWo69FSJO0F3uDkKDaiEjOAJ83GyTkqZYcp3YiBxyj/IS3Ow6tNh8C8Y5jmaDRzlT7dhg7WrqPfY6nmVqxw6VQlFF7zYE0JkKUZ4YW68DMLCL74BwuamSh7zbmJCZemwy7RlAwCC2xsRydJsUkPC/cUzDVDxzZaJty1HjBokLMtpPLDOa41maA+Ou+ojOYU1/11uh0yTMUFs4HPir175uFmP1vWIp8nDJafK52a1sbZxU9FHUBq4iy/a+YyQ745xjn0JcxDMIT0Pa9uHzR9+uV/i8ozr7pU7hJ76vc+y+C7lw8+LbYQHtZpeHYVH+KBvs0JEfvaNNO2Jipw1/bbmF7wDEMxJPiDjPLJv8Us9/sI+Px9DViX8fQF4oO5bEG+1j3NnKF5cn1pHWSJndwjGmW6CYKB1OKJw6f1MJPV3tsfRmYNPCz22s5eWJhWdDkpngTT1UruuVjoDA/0G72uD75SD4wg2a5YPgc4gC22N+qEgN0VH6epK3LsTs9ERe8gQuuc95e8zTRfApps4m/3D8BqZBkTkFCOcfb3cT5MPQf5JmpYgTsDIadisFnxJBBOw1gz1sS2LDRdeP4vqHIoHdI0ufB380l2ZcGA+A3EyXPzur0KsvNvcw1ieO1AebGuI17D7k4uJESLz27TYWN/sDMf297qmZKJ6eVgiMqJhukwpYWpcP3vARe3+AE8UkkIjKdNHfwlOAs766ETU0yGuUX+3LcscBRB6gP5j0ojuhh8L4ZGd8TUS2rMBsmJLwnzwC/">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '15559',
+            cRay: '76fc5ca01937ce78',
+            cHash: '51c9d42b12224f6',
+            cUPMDTk: "\/badge\/dynamic\/json?color=success&label=views|all&query=count&url=https:\/\/github.com\/andry81-stats\/tacklebar--external_tools--gh-stats\/raw\/master\/traffic\/views\/latest-accum.json?raw=True&logo=github&__cf_chl_tk=vWXjLXXwk0Nh3D66w.u6krCU05f53zLttRPGEOK5ECI-1669400043-0-gaNycGzNB2U",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9keW5hbWljL2pzb24/Y29sb3I9c3VjY2VzcyZsYWJlbD12aWV3c3xhbGwmcXVlcnk9Y291bnQmdXJsPWh0dHBzOi8vZ2l0aHViLmNvbS9hbmRyeTgxLXN0YXRzL3RhY2tsZWJhci0tZXh0ZXJuYWxfdG9vbHMtLWdoLXN0YXRzL3Jhdy9tYXN0ZXIvdHJhZmZpYy92aWV3cy9sYXRlc3QtYWNjdW0uanNvbj9yYXc9VHJ1ZSZsb2dvPWdpdGh1Yg==',
+                ra: 'Y3VybC83LjY4LjA=',
+                rm: 'R0VU',
+                d: 'KsSnHfStx+EVIfKwOl5n2hijEWFjMEYXQ9+kKVUBIyKO6Br2YaiRpKyZTDjWW+oHtXEZHdiIJKuUCpuae7OmOiaQLMCr6JJHl4ZxnYvSumxGK3WLEVu9iDTx3FfGOl0EiY4/6Zc8YkN5s/6c+jVQChEdCnt+v/y6WYYlWmJUQ7uR6FEqyovpSoohOBLmwUWr0dKnAqlOrBdFZXLxqDOrhRqP8APfZS+DRlE+E+ZNJhulUXSRlKY3JkNhkWJ0OnsWlUc2axnhT8ANJZyPsYGYiTe/1DLMFHVpvLpguDXJ9IdbUvR7O8WL7m49yLJYZDMybdIURSllN5C05CzZEJO1ndAS+DCGxTY/wyN4dLbLqXcsoctUIdzXmKQBDpNRzqljKJqoXCK49km7Ihg5f3nfSUVJdCYwWDy+BsR0pw1+mnbsNeLC541Q5/lJl2tcBkcZfdAUK+zORZC48ER5i70NBbq3sl1No72wE8azW8DJJccVEafbbIgu90LJMQrs2zpna+NTHEP1GBPfIEdbtMhQa8UB4Gtv7j114GR77BzT0kfUIOc4F9hKWpqcn8Vh1d+KA7dtf+RvP0Ku1oQRQG9AD5qE0dCaT6UJWmbWnOTORvk=',
+                t: 'MTY2OTQwMDA0My41NTkwMDA=',
+                m: 'eXbIvo+2ho+M0az5+/Jph2fqazUEWVqRi0Wr0WsHqJE=',
+                i1: 'a0IQGpxZVCmK/gV0WlGRzA==',
+                i2: 'N3dqbXGjOOobvibZ0WZiYQ==',
+                zh: 'h1kabnJrIWu9Q05gRB1osBcs9EjbdfI3L0Tpfx6vpTM=',
+                uh: 'LgBfwTjckPmPFLl2OGGaoWOKkjIgTojK2wwoWSzqSQw=',
+                hh: 'dVDyTVaSv/YGFWPDex7JQ4MzDb8Xvj2fO4wAhFw+OYo=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=76fc5ca01937ce78');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=76fc5ca01937ce78';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/badge\/dynamic\/json?color=success&label=views|all&query=count&url=https:\/\/github.com\/andry81-stats\/tacklebar--external_tools--gh-stats\/raw\/master\/traffic\/views\/latest-accum.json?raw=True&logo=github&__cf_chl_rt_tk=vWXjLXXwk0Nh3D66w.u6krCU05f53zLttRPGEOK5ECI-1669400043-0-gaNycGzNB2U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>76fc5ca01937ce78</code></div>
+            </div>
+            <div class="text-center">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>
