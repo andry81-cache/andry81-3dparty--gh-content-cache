@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2024-10-02T00:35:25Z'
+  timestamp: '2025-01-20T00:48:28Z'
 
   entries:
 
@@ -16,25 +16,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: a3d76eb4be222ede6cf65310c47fbc8a
-              timestamp: '2024-10-02T00:35:21Z'
+              timestamp: '2025-01-20T00:48:22Z'
               size: 2328
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2024-10-02T00:35:22Z'
+              timestamp: '2025-01-20T00:48:23Z'
               size: 1101
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: ec08d3b97a3fa13a439d7f3fdd3777c7
-              timestamp: '2024-10-02T00:35:22Z'
+              timestamp: '2025-01-20T00:48:24Z'
               size: 2331
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2024-10-02T00:35:23Z'
+              timestamp: '2025-01-20T00:48:25Z'
               size: 1101
 
         - dir: repo/andry81-3dparty/andry81-3dparty/badges/traffic/clones
@@ -43,25 +43,25 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: cf173fbfdb7944b8de1af94bbb4b2c00
-              timestamp: '2024-10-02T00:35:23Z'
+              md5-hash: e173fdb0df46ad4f85b29529401851f7
+              timestamp: '2025-01-20T00:48:25Z'
               size: 2341
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2024-10-02T00:35:24Z'
+              timestamp: '2025-01-20T00:48:26Z'
               size: 1101
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: b9e2252bdc86cab6a1d81e1c0fd4b675
-              timestamp: '2024-10-02T00:35:24Z'
+              md5-hash: 0190578d8bfa4bc5243bce0f32bfe9a5
+              timestamp: '2025-01-20T00:48:27Z'
               size: 2341
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/andry81-3dparty--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2024-10-02T00:35:25Z'
+              timestamp: '2025-01-20T00:48:28Z'
               size: 1101
 
