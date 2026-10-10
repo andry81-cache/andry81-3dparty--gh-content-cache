@@ -143,9 +143,3 @@ content-index:
               timestamp: '2026-10-10T02:51:34Z'
               size: 2513
 
-            - file: tokei-lines-of-code.svg
-              queried-url: https://tokei.rs/b1/github/andry81-3dparty/tacklebar--external_tools?category=code
-              md5-hash: 911163834a6ee06a5d93cb8366c6a58d
-              timestamp: '2025-12-10T00:56:13Z'
-              size: 1579
-
